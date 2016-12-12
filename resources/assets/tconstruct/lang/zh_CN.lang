@@ -179,7 +179,7 @@ tile.tconstruct.wood_rail_trapdoor.name=带活版门的木质轨道
 tile.tconstruct.wood_rail_trapdoor.tooltip=漏斗矿车可以\n穿过这个方块下面
 tile.tconstruct.punji.name=尖竹钉
 tile.tconstruct.punji.tooltip=非常尖锐！可以拿来做围墙
-tile.tconstruct.glow.name=Glow
+tile.tconstruct.glow.name=辉光
 tile.tconstruct.rack.item.name=物品架
 tile.tconstruct.rack.item.tooltip=仅仅是用来做装饰的
 tile.tconstruct.rack.drying.name=晾干架
@@ -323,7 +323,7 @@ item.tconstruct.cast_custom.gem.name=宝石铸模
 item.tconstruct.cast_custom.plate.name=板铸模
 item.tconstruct.cast_custom.gear.name=齿轮铸模
 
-item.tconstruct.sharpening_kit.name=采掘升级工具
+item.tconstruct.sharpening_kit.name=磨制工具
 item.tconstruct.sharpening_kit.tooltip=结合燧石使用\n可以把你的工具升级到该种材料对应的挖掘等级
 
 item.forge.bucketFilled.blood=血桶
